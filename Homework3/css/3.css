@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-family: "Comic Sans MS";
+    font-size: 1000%;
+    color: cyan;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+}
+
+h4 {
+    color: #cccccc;
+    margin-bottom: 10px;
+}
